@@ -463,7 +463,7 @@ def _has_tesseract() -> bool:
 
 
 def _ocr_lang() -> str:
-    pref = os.environ.get("DOCCONV_OCR_LANG", "tur+eng")
+    pref = os.environ.get("DOCCONV_OCR_LANG", "tur")
     try:
         import pytesseract
         have = set(pytesseract.get_languages())

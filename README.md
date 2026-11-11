@@ -25,7 +25,7 @@ brew install tesseract tesseract-lang   # resim / taranmış PDF / PDF içi resi
 | DOCX | python-docx | Başlıklar, listeler, kalın/italik, tablolar |
 | DOC, RTF, ODT | macOS `textutil` → DOCX | Yalnızca macOS; RTF/DOC'ta stil yoksa başlıklar düz metin kalır |
 | Pages | IWA içinden metin | **Deneysel**: yalnızca düz metin; biçim ve tablolar yok. En iyisi Pages'ten Word/PDF dışa aktarmak |
-| PNG/JPG/TIFF… | Tesseract OCR | `DOCCONV_OCR_LANG=tur+eng` (varsayılan) |
+| PNG/JPG/TIFF… | Tesseract OCR | `DOCCONV_OCR_LANG=tur` (varsayılan; `tur+eng` karışımı Türkçe harflerde daha kötü sonuç veriyor) |
 | TXT, MD | doğrudan | |
 
 ## JSON şeması
