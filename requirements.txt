@@ -1,0 +1,6 @@
+flask
+pymupdf
+pymupdf4llm
+python-docx
+pillow
+pytesseract

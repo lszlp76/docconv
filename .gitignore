@@ -1,0 +1,7 @@
+.venv/
+out/
+t/
+__pycache__/
+*.pyc
+cikti/
+.DS_Store

@@ -1,0 +1,34 @@
+{
+  "source": "scan.pdf",
+  "format": "pdf",
+  "title": "scan",
+  "metadata": {
+    "format": "PDF 1.7"
+  },
+  "stats": {
+    "characters": 61,
+    "words": 8,
+    "blocks": 2,
+    "pages": 1
+  },
+  "warnings": [
+    "1 sayfada metin katmanı yoktu, sayfalar OCR ile okundu."
+  ],
+  "pages": [
+    {
+      "number": 1,
+      "markdown": "Öğrenci şehir çalışması İstanbul\n\nGiizel ispanak ve çiğköfte"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Öğrenci şehir çalışması İstanbul"
+    },
+    {
+      "type": "paragraph",
+      "text": "Giizel ispanak ve çiğköfte"
+    }
+  ],
+  "markdown": "Öğrenci şehir çalışması İstanbul\n\nGiizel ispanak ve çiğköfte\n"
+}
