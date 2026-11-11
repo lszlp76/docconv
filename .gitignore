@@ -5,3 +5,4 @@ __pycache__/
 *.pyc
 cikti/
 .DS_Store
+out*/
